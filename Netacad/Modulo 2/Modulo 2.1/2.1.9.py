@@ -1,0 +1,4 @@
+print("The itsy bitsy spider","climbed up","the waterspout.")
+print("The itsy bitsy spider" , "climbed up" , "the waterspout.") #- apesar do espaçamento entre a string e a virgula ela fica igual ao input da linha anterior pois o python por si só ja faz o espaçamento
+print("The itsy bitsy spider " , "climbed up " , "the waterspout.") #- aqui existe espaçamento "extra" pois antes da aspa de fecho deu-se um espaçamento
+print("The itsy bitsy spider ","climbed up ","the waterspout.") #- aqui fica igual a frase de cima pois como referido anteriormente o python não assume o espaçamento entre a virgula e os argumentos e apenas assume o espaçamento dentro da string

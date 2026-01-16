@@ -1,0 +1,3 @@
+leg_a = float(input("Input first leg length: ")) #Convertemos o input(string) para um valor float
+leg_b = float(input("Input second leg length: ")) #Convertemos o input(string) para um valor float
+print("Hypotenuse length is " + str((leg_a**2 + leg_b**2) ** .5)) #Aqui convertemos logo os valores em float para uma string e não precisamos de usar as virgulas (mas usamos o + para concater as agora duas strings)
