@@ -100,4 +100,19 @@
 # >>>>> 2.6.8 - More type conversions <<<<<
 #str(number) - Isto faz o inverso do referido anteriormente, aqui convertemos um numero para uma string
 
-print (88 // 60)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
